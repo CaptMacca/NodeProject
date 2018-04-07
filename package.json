@@ -20,5 +20,13 @@
   "bugs": {
     "url": "https://github.com/CaptMacca/NodeProject/issues"
   },
-  "homepage": "https://github.com/CaptMacca/NodeProject#readme"
+  "homepage": "https://github.com/CaptMacca/NodeProject#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-inject": "^4.3.2",
+    "gulp-jshint": "^2.1.0",
+    "gulp-nodemon": "^2.2.1",
+    "jshint": "^2.9.5",
+    "wiredep": "^4.0.0"
+  }
 }
