@@ -1,13 +1,13 @@
 {
-  "name": "chat-example",
+  "name": "nodejs-example",
   "version": "0.0.0",
-  "description": "A chat example to showcase how to use `socket.io` with a static `express` server with `async` for control flow.",
-  "main": "server.js",
+  "description": "Node JS Course project.",
+  "main": "app.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/CaptMacca/NodeProject.git"
   },
-  "author": "Mostafa Eweda <mo.eweda@gmail.com>",
+  "author": "Steve",
   "dependencies": {
     "async": "~0.2.8",
     "ejs": "^2.5.8",
